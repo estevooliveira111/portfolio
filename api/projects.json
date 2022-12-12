@@ -1,0 +1,19 @@
+[
+    
+    {
+        "title": "Soporrada",
+        "description": "Plataforma de Venda de Podcast",
+        "link": "https://soporrada.com.br",
+        "tags":["#laravel", "#livewire"],
+        "img": "portfolio/image/image2.png"
+    },
+
+    {
+        "title": "OWL Social",
+        "description": "Sistema para influenciadores fazerem cursos",
+        "link": "https://owlsocial.com.br/public/",
+        "tags":["#laravel", "#livewire"],
+        "img": "portfolio/image/image1.png"
+    }
+    
+]
